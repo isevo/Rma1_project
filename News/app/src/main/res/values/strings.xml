@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="REST_API_KEY">access_key=de5ffff0350d13e47c1730103f83955b</string>
+    <string name="REST_API">http://api.mediastack.com/v1/</string>
+    <string name="REST_API1">limit=20</string>
+    <string name="REST_API_KEY2">languages=en</string>
+</resources>
